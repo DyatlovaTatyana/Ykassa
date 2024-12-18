@@ -19,7 +19,7 @@ class TestAddToCart:
         start_page.open_start_page()
 
         # ID продукта, который хотим добавить в корзину
-        product_id = '253355137'
+        product_id = '2533551377878'
 
         # Добавление продукта в корзину
         start_page.add_product_to_cart(product_id)
